@@ -11,3 +11,5 @@ This project is created to learn Git and GitHub basics.
 - Pull
 - Branch
 - Pull Request
+- Push Request
+- Create test cases for Login
